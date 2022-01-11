@@ -20,3 +20,19 @@
     font-family: "Abhaya Libre", serif;
     font-size: 1.8rem;
 }
+
+@media (max-width: 1028px) {
+
+    .About {
+        margin-right: auto;
+        margin-left: auto;
+        position: relative;
+        width: 100%; 
+    }
+    
+    .About-Table {
+        margin-right: auto;
+        margin-left: auto;
+        width: 100%;
+    }
+}
