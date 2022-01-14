@@ -1,1 +1,1 @@
-# EurotoUSDCurrencyConvertPrivacy
+# EurotoUSDCurrencyConverterPrivacy
